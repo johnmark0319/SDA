@@ -75,7 +75,7 @@ body{
 .company-name{
     color: brown;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 40px;
+    font-size: 28px;
     font-weight: 900;
     word-spacing: 15px;
     letter-spacing: 5px;
@@ -84,7 +84,7 @@ body{
 
 .sub-name{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     word-spacing: 20px;
     
@@ -213,4 +213,9 @@ p{
     text-align:justify;
     font-size: 20px;
     line-height: 30px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
 }
